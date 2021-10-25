@@ -1,0 +1,1 @@
+# Monitoramento-de-Quadros-de-Circuitos-QDC-
